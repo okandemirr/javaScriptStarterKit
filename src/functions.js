@@ -1,4 +1,3 @@
-
 function adToCart(quantity,productName="Elma") {
     console.log("Sepete Eklendi : " + productName + " adet : " +quantity)
 }
