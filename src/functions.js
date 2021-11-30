@@ -30,7 +30,7 @@ adToCart(10);
 // adToCart(15);
 
 let sayHello = () =>{
-    console.log("Hello B*tch!")
+    console.log("Hello")
 }
 sayHello();
 
@@ -113,4 +113,5 @@ let newProductName,newUnitPrice, newQuantity
 console.log(newProductName)
 console.log(newUnitPrice)
 console.log(newQuantity)
-//Yorum satırı
+
+
