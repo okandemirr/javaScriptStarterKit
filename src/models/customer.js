@@ -1,4 +1,3 @@
-
 import User from "./user.js"
 
 export default class Customer extends User{
